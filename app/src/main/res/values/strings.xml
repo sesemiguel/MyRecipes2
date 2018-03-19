@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">All My Recipes</string>
-    <string name="app_name_full">All My Recipes</string>
+    <string name="app_name">Recipes</string>
+    <string name="app_name_full">Recipes</string>
     <string name="sample_title">Sample Title</string>
     <string name="sample_description">Sample Description</string>
     <string name="item_1">Item 1</string>
@@ -9,6 +9,7 @@
     <string name="recipe_text">RECIPE TEXT</string>
     <string name="enter_recipe_description_here">Enter recipe description here</string>
     <string name="delete">Delete</string>
-    <string name="todo">TODO</string>
     <string name="edit">Edit</string>
+    <string name="todo">TODO</string>
+    <string name="recipes">RECIPES</string>
 </resources>

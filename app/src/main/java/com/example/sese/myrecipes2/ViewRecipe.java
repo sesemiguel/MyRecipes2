@@ -1,6 +1,4 @@
 package com.example.sese.myrecipes2;
-
-
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
